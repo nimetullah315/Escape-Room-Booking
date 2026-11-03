@@ -29,7 +29,7 @@ Visit `http://localhost:3500/api/bookings` in your browser to use the applicatio
 3. POST /api/bookings
 4. DELETE /api/bookings/:id
 
-Visit `http://localhost:3500/api/escaperoom` in your browser to use the application or Use _postman_ to ckeck some specific features like **get, delete, post or update** escaperoom.
+Visit `http://localhost:3500/api/rooms` in your browser to use the application or Use _postman_ to ckeck some specific features like **get, delete, post or update** escaperoom.
 
 1. GET /api/rooms
 2. GET /api/rooms/:id
